@@ -1,6 +1,6 @@
 | <img align="center" alt="Coding" width="400" src="https://taeluralexis.com/wp-content/uploads/2023/04/uqohmvsr0ilxd9wfb8bi.gif" /> | I am Bilge, a passionate computer engineering student who delves deep into researching and experiencing new concepts, enthusiastically sharing my knowledge with those seeking it. My excitement lies in exploring new experiences in software-related realms, driving my commitment to continuous self-improvement. Concurrently, I maintain a keen interest in staying updated while pursuing my education in technology. |
 |:-------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:| 
-[![](https://visitcount.itsvg.in/api?id=zbilgeozkan&icon=2&color=1)](https://visitcount.itsvg.in)  |  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeynepbilgeozkan) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zeynepbilgeozkan) [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/zbilgeozkan) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/zbilgeozkan)
+[![](https://visitcount.itsvg.in/api?id=zbilgeozkan&icon=2&color=1)](https://visitcount.itsvg.in) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zeynepbilgeozkan)  |  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeynepbilgeozkan) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zeynepbilgeozkan) [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/zbilgeozkan) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/zbilgeozkan)
 
 ---
 
@@ -43,25 +43,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zbilgeozkan&theme=monokai&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
-
-<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-
----
 
 <p align="center">
   <img src="https://memer-new.vercel.app/" style="height: 400px;" />
 </p>
-
-
----
-
-  ## 💰 You can help me by Donating :)
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zeynepbilgeozkan) 
-
   
