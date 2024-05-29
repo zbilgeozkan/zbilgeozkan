@@ -1,4 +1,5 @@
 # 💫 About Me:
+<img align="center" alt="Coding" width="400" src="https://taeluralexis.com/wp-content/uploads/2023/04/uqohmvsr0ilxd9wfb8bi.gif" />
 I am Bilge, a computer engineering student who delves deep into researching and experiencing new concepts, enthusiastically sharing my knowledge with those seeking it. My excitement lies in exploring new experiences in software-related realms, driving my commitment to continuous self-improvement. Concurrently, I maintain a keen interest in staying updated while pursuing my education in computer engineering.
 
 
