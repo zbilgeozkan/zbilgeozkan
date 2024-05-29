@@ -1,13 +1,9 @@
-| <img align="center" alt="Coding" width="400" src="https://taeluralexis.com/wp-content/uploads/2023/04/uqohmvsr0ilxd9wfb8bi.gif" /> | I am Bilge, a computer engineering student who delves deep into researching and experiencing new concepts, enthusiastically sharing my knowledge with those seeking it. My excitement lies in exploring new experiences in software-related realms, driving my commitment to continuous self-improvement. Concurrently, I maintain a keen interest in staying updated while pursuing my education in computer engineering. |
-|:-------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| <img align="center" alt="Coding" width="400" src="https://taeluralexis.com/wp-content/uploads/2023/04/uqohmvsr0ilxd9wfb8bi.gif" /> | I am Bilge, a passionate computer engineering student who delves deep into researching and experiencing new concepts, enthusiastically sharing my knowledge with those seeking it. My excitement lies in exploring new experiences in software-related realms, driving my commitment to continuous self-improvement. Concurrently, I maintain a keen interest in staying updated while pursuing my education in technology. |
+|:-------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:| 
+[![](https://visitcount.itsvg.in/api?id=zbilgeozkan&icon=2&color=1)](https://visitcount.itsvg.in)  |  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeynepbilgeozkan) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zeynepbilgeozkan) [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/zbilgeozkan) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/zbilgeozkan)
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeynepbilgeozkan) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zeynepbilgeozkan) [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/zbilgeozkan) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/zbilgeozkan)
-
----
-
-# 💻 Tech Stack:
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
@@ -32,30 +28,40 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
 
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zbilgeozkan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=zbilgeozkan&theme=tokyonight&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zbilgeozkan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zbilgeozkan&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zbilgeozkan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### 🕶️ Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zbilgeozkan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zbilgeozkan&theme=tokyonight&hide_border=false" /><br/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zbilgeozkan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zbilgeozkan&icon=2&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by :)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zbilgeozkan&theme=monokai&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://memer-new.vercel.app/" style="height: 400px;" />
+</p>
+
+
+---
+
+  ## 💰 You can help me by Donating :)
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zeynepbilgeozkan) 
 
   
