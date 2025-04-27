@@ -4,8 +4,7 @@
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="flex: 1; padding: 10px;">
+<div style="flex: 1; padding: 10px;">
     ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white)  
     ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)  
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  
@@ -36,7 +35,6 @@
     ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)  
     ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)  
   </div>
-</div>
 
 ---
 
