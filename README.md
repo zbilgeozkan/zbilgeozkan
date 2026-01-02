@@ -30,25 +30,25 @@ Interested in **RAG systems**, **NLP**, and applied AI engineering.
 </h3>
 
 <p align="center">
-  <a href="https://zbilgeozkan.github.io/">
+  <a href="https://zbilgeozkan.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/zeynepbilgeozkan">
+  <a href="https://linkedin.com/in/zeynepbilgeozkan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://medium.com/@zeynepbilgeozkan">
+  <a href="https://medium.com/@zeynepbilgeozkan" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.hackerrank.com/profile/zbilgeozkan">
+  <a href="https://www.hackerrank.com/profile/zbilgeozkan" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://buymeacoffee.com/zeynepbilgeozkan">
+  <a href="https://buymeacoffee.com/zeynepbilgeozkan" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
   </a>
 </p>
