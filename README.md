@@ -19,8 +19,8 @@
   About Me 
 </h3>
 
-Computer Engineering student working with **Python**, **ML**, and **LLMs**.  
-Interested in **RAG systems**, **NLP**, and applied AI engineering.
+  - Computer Engineering student working with **Python**, **ML**, and **LLMs**.  
+  - Interested in **RAG systems**, **NLP**, and applied AI engineering.
 
 ---
 
