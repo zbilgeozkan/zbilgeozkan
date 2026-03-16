@@ -6,7 +6,7 @@
 </h1>
 
 
-<h3 align="center">Computer Engineering Student</h3>
+<h3 align="center">CSE Student</h3>
 
 <p align="center">
   <img width="400" src="https://i.pinimg.com/originals/98/4d/f9/984df95d5282c580d34bb151064d2fc0.gif" />
