@@ -19,20 +19,10 @@
 &nbsp;
 <a href="https://buymeacoffee.com/zeynepbilgeozkan" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%23ffdd00.svg?style=flat-circle&logo=buy-me-a-coffee&logoColor=black"/></a>
 
+# 
+<br/>
+
 </div>
-
----
-
-## About
-
-Computer Engineering student with a focus on **applied AI engineering**
-
-My primary interests lie in:
-- **Retrieval-Augmented Generation (RAG)** — designing robust pipelines for knowledge-grounded LLMs
-- **NLP & Semantic Search** — embedding models, vector retrieval, and language understanding
-- **LLM Engineering** — prompt design, inference optimization, and evaluation
-
----
 
 <div align="center">
   <img src="arcade-stack.svg" alt="Tech Stack Arcade Machine"/>
