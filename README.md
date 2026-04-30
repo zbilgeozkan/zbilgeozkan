@@ -34,15 +34,12 @@ My primary interests lie in:
 
 ---
 
-## Tech Stack
-
 <div align="center">
   <img src="arcade-stack.svg" alt="Tech Stack Arcade Machine"/>
 </div>
 
----
-
-## Stats
+# 
+<br/>
 
 <div align="center">
 
