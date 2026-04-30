@@ -1,134 +1,59 @@
-<h1 align="center">
-  Hey
-  <img src="https://cdn-icons-png.flaticon.com/512/4643/4643291.png" width="35"/>
-  , It's Bilge
-  <img src="https://media.tenor.com/L2NVsm9IRsUAAAAj/mario-bros-star-star-arcade.gif" width="30"/>
-</h1>
+<div align="center">
 
+# <img src="https://media.tenor.com/L2NVsm9IRsUAAAAj/mario-bros-star-star-arcade.gif" width="28"/> Bilge Ozkan <img src="https://media.tenor.com/L2NVsm9IRsUAAAAj/mario-bros-star-star-arcade.gif" width="28"/>
 
-<h3 align="center">CSE Student</h3>
+**CSE Student · AI/ML Engineer**
 
-<p align="center">
-  <img width="400" src="https://i.pinimg.com/originals/98/4d/f9/984df95d5282c580d34bb151064d2fc0.gif" />
-</p>
+<img src="https://i.pinimg.com/originals/98/4d/f9/984df95d5282c580d34bb151064d2fc0.gif" width="500"/>
 
----
+<br/>
+<br/>
 
-<h3>
-  <img src="https://cdn-icons-png.flaticon.com/512/4479/4479723.png" width="22"/>
-  About Me 
-</h3>
+<a href="https://zbilgeozkan.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-circle&logo=githubpages&logoColor=white"/></a>
+&nbsp;
+<a href="https://linkedin.com/in/zeynepbilgeozkan" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-circle&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="https://medium.com/@zeynepbilgeozkan" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=flat-circle&logo=medium&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.hackerrank.com/profile/zbilgeozkan" target="_blank"><img src="https://img.shields.io/badge/HackerRank-%2300EA64.svg?style=flat-circle&logo=hackerrank&logoColor=black"/></a>
+&nbsp;
+<a href="https://buymeacoffee.com/zeynepbilgeozkan" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-%23ffdd00.svg?style=flat-circle&logo=buy-me-a-coffee&logoColor=black"/></a>
 
-  - Computer Engineering student working with **Python**, **ML**, and **LLMs**.  
-  - Interested in **RAG systems**, **NLP**, and applied AI engineering.
-
----
-
-<h3>
-  <img src="https://cdn-icons-png.flaticon.com/512/3775/3775201.png" width="22"/>
-  Connect with Me 
-</h3>
-
-<p align="center">
-  <a href="https://zbilgeozkan.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/zeynepbilgeozkan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://medium.com/@zeynepbilgeozkan" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/profile/zbilgeozkan" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://buymeacoffee.com/zeynepbilgeozkan" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<h3>
-  <img src="https://cdn-icons-png.freepik.com/256/4365/4365271.png" width="20"/>
-  Technologies & Tools
-</h3>
+## About
 
-<!-- AI / ML Core -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-</p>
+Computer Engineering student with a focus on **applied AI engineering**
 
-<!-- LLM / GenAI -->
-<p align="center">
-  <img src="https://img.shields.io/badge/LLM-000000?style=flat"/>
-  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-5A5A5A?style=flat"/>
-</p>
-
-<!-- LLM Engineering -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-6A5ACD?style=flat"/>
-  <img src="https://img.shields.io/badge/Embeddings-2F4F4F?style=flat"/>
-  <img src="https://img.shields.io/badge/Semantic%20Search-4682B4?style=flat"/>
-  <img src="https://img.shields.io/badge/Model%20Inference-708090?style=flat"/>
-</p>
-
-<!-- Vector & Search -->
-<p align="center">
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat"/>
-</p>
-
-<!-- Backend & API -->
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat"/>
-</p>
-
-<!-- Data & Experimentation -->
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=flat&logo=jupyter&logoColor=white"/>
-</p>
-
-<!-- Databases -->
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-</p>
-
-<!-- Dev / Infra -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-181717?style=flat&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
-</p>
-
-<!-- Hardware -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
-</p>
-
+My primary interests lie in:
+- **Retrieval-Augmented Generation (RAG)** — designing robust pipelines for knowledge-grounded LLMs
+- **NLP & Semantic Search** — embedding models, vector retrieval, and language understanding
+- **LLM Engineering** — prompt design, inference optimization, and evaluation
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+## Tech Stack
+
+<div align="center">
+  <img src="arcade-stack.svg" alt="Tech Stack Arcade Machine"/>
+</div>
+
+---
+
+## Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zbilgeozkan&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&rank_icon=github)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zbilgeozkan&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
